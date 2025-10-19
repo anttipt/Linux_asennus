@@ -1,11 +1,11 @@
 # Linux_asennus
 Ubuntun asennus Windows 10-koneelle
 
-<img src="kuvat/kuva1.jpg" alt="openweathermap.org" title="openweathermap.org">
+<img src="kuvat/kuva1.png" alt="openweathermap.org" title="openweathermap.org">
 
-<img src="kuvat/kuva2.jpg" alt="openweathermap.org" title="openweathermap.org">
+<img src="kuvat/kuva2.png" alt="openweathermap.org" title="openweathermap.org">
 
-<img src="kuvat/kuva3.jpg" alt="openweathermap.org" title="openweathermap.org">
+<img src="kuvat/kuva3.png" alt="openweathermap.org" title="openweathermap.org">
 
 <img src="kuvat/kuva4.jpg" alt="openweathermap.org" title="openweathermap.org">
 
