@@ -35,9 +35,15 @@ vain kokeneemmille käyttäjille.
 
 <img src="kuvat/kuva8.jpg" alt="Asennustavan valinta" title="Asennustavan valinta">
 
-<img src="kuvat/kuva9.jpg" alt="openweathermap.org" title="openweathermap.org">
+Lisäksi asennuksen yhteydessä asennettavien sovellusten määrän voi valita. Asennetaanko pelkät tarpeelliset
+vai myös muita sovelluksia?
 
-<img src="kuvat/kuva10.jpg" alt="openweathermap.org" title="openweathermap.org">
+<img src="kuvat/kuva9.jpg" alt="Sovellusten määrä" title="Sovellusten määrä">
+
+Kun asennus on valmis, tietokone käynnistyy uudelleen ja pyytää irrottamaan USB-tikun. Lopuksi kannattaa
+varmistaa että kone käynnistyy jatkossa taas kovalevyltä eli painaa uudelleen käynnistyksen yhteydessä F2.
+
+<img src="kuvat/kuva10.jpg" alt="Asennus meneillään" title="Asennus meneillään">
 
 
 
