@@ -1,11 +1,19 @@
 # Linux_asennus
-Ubuntun asennus Windows 10-koneelle
+Ubuntun asennus Windows 10-koneelle. Kuvista saa tarkempia tietoja viemällä hiiren kuvakkeen niiden päälle.
 
-<img src="kuvat/kuva1.png" alt="openweathermap.org" title="openweathermap.org">
+Aluksi luodaan asennusmedia. Tässä tapauksessa latasin Ubuntun ISO-tiedoston USB-tikulle käyttämällä
+ilmaista Rufus-nimistä sovellusta.
 
-<img src="kuvat/kuva2.png" alt="openweathermap.org" title="openweathermap.org">
+<img src="kuvat/kuva1.png" alt="Asennusmedian luonti" title="Asennusmedian luonti">
 
-<img src="kuvat/kuva3.png" alt="openweathermap.org" title="openweathermap.org">
+ISO-tiedoston eheyden voi tarkistaa vertaamalla hash-koodia Ubuntun verkkosivuilla löytyvään koodiin.
+Jos koodit täsmäävbät on tiedosto kunnossa.
+
+<img src="kuvat/kuva2.png" alt="Hash-koodi" title="Hash-koodi">
+
+<img src="kuvat/kuva3.png" alt="Hash-koodi" title="Hash-koodi">
+
+
 
 <img src="kuvat/kuva4.jpg" alt="openweathermap.org" title="openweathermap.org">
 
